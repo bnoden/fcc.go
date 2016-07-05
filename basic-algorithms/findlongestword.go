@@ -1,9 +1,5 @@
 // needs work
 
-
-
-
-
 package main
 
 import (

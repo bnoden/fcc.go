@@ -17,7 +17,7 @@ func palindrome(str string) bool {
     result := bnoden.Replace(str)
     return result
 }
-
+// Test
 func main() {
     fmt.Println(palindrome("eye"))
     fmt.Println(palindrome("_eye"))

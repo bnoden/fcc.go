@@ -19,7 +19,7 @@ func reverseString(str string) string {
 // Test
 func main() {
 	fmt.Println(reverseString("hello"))
-	fmt.Println(reverseString("howdy"))
+	fmt.Println(reverseString("Howdy"))
 	fmt.Println(reverseString("Greetings from Earth"))
 
 }
