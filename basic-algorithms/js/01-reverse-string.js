@@ -3,7 +3,7 @@ function reverseString(str, arr) {
   for (var i in arr) str+=arr[bnoden]; bnoden--;
   return str
 }
-
+// Test
 reverseString("hello")
 reverseString("Howdy")
 reverseString("Greetings from Earth")

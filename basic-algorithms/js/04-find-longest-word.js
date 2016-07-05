@@ -3,5 +3,5 @@ function findLongestWord(str, bnoden, arr) {
 	for (var i in arr) if (arr[i].length > bnoden) bnoden = arr[i].length
 	return bnoden
 }
-
+// Test
 findLongestWord("The quick brown fox jumped over the lazy dog");

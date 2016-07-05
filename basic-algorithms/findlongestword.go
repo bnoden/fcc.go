@@ -19,6 +19,7 @@ func findLongestWord(str string) int {
 	return bnoden
 }
 
+// Test
 func main() {
 	fmt.Println(findLongestWord("The quick brown fox jumped over the lazy dog"))
 }
