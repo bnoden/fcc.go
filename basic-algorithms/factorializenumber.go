@@ -17,8 +17,8 @@ func factorialize(num int64) int64 {
 
 // Test
 func main() {
-	fmt.Println(factorialize(5))
-	fmt.Println(factorialize(10))
-	fmt.Println(factorialize(20))
-	fmt.Println(factorialize(0))
+	fmt.Println(factorialize(5))  // 120
+	fmt.Println(factorialize(10)) // 3628800
+	fmt.Println(factorialize(20)) // 2432902008176640000
+	fmt.Println(factorialize(0))  // 1
 }
