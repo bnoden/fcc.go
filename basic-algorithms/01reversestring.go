@@ -1,4 +1,4 @@
-// https://play.golang.org/p/L4zwPADKUZ
+// https://play.golang.org/p/H1_W6gcdgZ
 
 package main
 
@@ -18,8 +18,8 @@ func reverseString(str string) string {
 
 // Test
 func main() {
-	fmt.Println(reverseString("hello"))
-	fmt.Println(reverseString("Howdy"))
-	fmt.Println(reverseString("Greetings from Earth"))
+	fmt.Println(reverseString("hello"))                // "olleh"
+	fmt.Println(reverseString("Howdy"))                // "ydwoH"
+	fmt.Println(reverseString("Greetings from Earth")) // "htraE morf sgniteerG"
 
 }

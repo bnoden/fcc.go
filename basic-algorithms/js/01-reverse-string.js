@@ -4,6 +4,6 @@ function reverseString(str, arr) {
   return str
 }
 // Test
-reverseString("hello")
-reverseString("Howdy")
-reverseString("Greetings from Earth")
+reverseString("hello") // "olleh"
+reverseString("Howdy") // "ydwoH"
+reverseString("Greetings from Earth") // "htraE morf sgniteerG"
