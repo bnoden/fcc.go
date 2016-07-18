@@ -2,6 +2,7 @@ function slasher(arr, bnoden) {
 	return arr.splice(bnoden, arr.length)
 }
 
+// Test
 console.log(slasher([1, 2, 3], 2)) // [3]
 console.log(slasher([1, 2, 3], 0))// [1, 2, 3]
 console.log(slasher([1, 2, 3], 9)) // []

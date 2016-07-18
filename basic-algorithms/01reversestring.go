@@ -1,5 +1,4 @@
-// https://play.golang.org/p/H1_W6gcdgZ
-
+// https://play.golang.org/p/apC1p7ubf3
 package main
 
 import (
@@ -7,10 +6,9 @@ import (
 )
 
 func reverseString(str string) string {
-	arr := []rune(str)
-	bnoden := []rune{}
+	arr, bnoden := []rune(str), []rune{}
 
-	for i := len(arr) - 1; i >= 0; i-- {
+	for i := len(arr)-1; i >= 0; i-- {
 		bnoden = append(bnoden, arr[i])
 	}
 	return string(bnoden)

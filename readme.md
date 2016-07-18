@@ -1,5 +1,5 @@
-####[Reverse a String](https://play.golang.org/p/H1_W6gcdgZ)  
-####[Factorialize a Number](https://play.golang.org/p/WzriwurA3G)  
+####[Reverse a String](https://play.golang.org/p/apC1p7ubf3)  
+####[Factorialize a Number](https://play.golang.org/p/ffJ2BL_NrQ)  
 ####[Check for Palindromes](https://play.golang.org/p/DmMymFUaNw)  
 ####[Find the Longest Word in a String](https://play.golang.org/p/hXf_wdZdrC)  
 ####[Title Case a Sentence](https://play.golang.org/p/4hDLNm25Kv)  
